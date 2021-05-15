@@ -5,8 +5,8 @@
 This repository contains zenatix project solution code.
 
 It has two files:
-* [server_program]()
-* [edge_program]()
+* [server_program](https://github.com/sarveshkumargupta/zenatix-project/blob/main/server_program.py)
+* [edge_program](https://github.com/sarveshkumargupta/zenatix-project/blob/main/edge_program.py)
 
 ## Installing the libraries
 Install all required libraries using pip with requirement.txt of this repository.
